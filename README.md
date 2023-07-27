@@ -1,9 +1,12 @@
 # HKHikerBot
-A Telegram chatbot for hikers in Hong Kong
+This is a Telegram chatbot for hikers in Hong Kong, which I completed as a project for the course COMP7940 Cloud Computing of the program MSc in Data Analytics and Artificial Intelligence at Hong Kong Baptist University.
+
+The app is implemented with Python and MySQL.
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Features](#introduction)
+2. [Features](#features)
+3. [Contributing](#contributing)
 3. [License](#license)
 
 ## Introduction
@@ -35,7 +38,13 @@ After voting, users can view the top 10 hiking routes together with their respec
 ### /help
 Users can return to the menu to see different commands and functions for the chatbot.
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to
+discuss what you would like to change.
+
 ## License
+MIT License
+
 Copyright (c) 2022 Thomas Tsoi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -55,3 +64,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
